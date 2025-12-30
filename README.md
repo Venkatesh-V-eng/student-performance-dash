@@ -17,8 +17,8 @@ A full-stack analytics platform designed to track, analyze, and visualize studen
 1. **Clone the repository**
    git clone [https://github.com/Venkatesh-V-eng/student-performance-dash]
    
-2 Install Dependencies
+2. Install Dependencies
    pip install -r requirements.txt
    
-3 launch Server
+3. launch Server
    python main.py
